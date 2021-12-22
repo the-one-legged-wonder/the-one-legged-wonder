@@ -18,6 +18,8 @@
 - I also have some experience with/dabble in: Game Programming (Unreal Engine), <br />
 Media Production (Video and Audio Editing), 3D Modeling (Blender) and Photography
 
+<br />
+
 My Projects:
 - beans
 - beans

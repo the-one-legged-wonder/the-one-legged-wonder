@@ -8,7 +8,7 @@
 - I have experience with: Python (4 Years) and C, reasonable experience with Git and GitHub
 - I’m currently working on: a few GUI tools for my own personal use (in Python)
 - I'm currently employed at: TranslatorHQ - eCommerce Integration
-- I'm currently studying: Curtin Uni BSc Major - Multidisciplinary Science, 
+- I'm currently studying: Curtin Uni BSc Majoring in Multidisciplinary Science
 - I've completed the following Units:
   - Introduction to Software Development
   - Fundamentals of Programming

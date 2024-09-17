@@ -18,7 +18,7 @@
   - Data Structures and Algorithms
   - Unix and C Programming
 - I’m currently learning: VB.NET, C# and Javascript
-- I want to learn: Rust <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/220px-Rustacean-orig-noshadow.svg.png" alt="" width="128">
+- I want to learn: Rust <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Rustacean-orig-noshadow.svg/220px-Rustacean-orig-noshadow.svg.png" alt="" width="32">
 - I also have some experience with/dabble in:
   - Game Programming (Unreal Engine)
   - Media Production (Video and Audio Editing)

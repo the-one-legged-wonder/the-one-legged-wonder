@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <b> <img src="xytyylbi1li21.jpg" alt="" width="128"> 
-  <b> <img src="catface.png" alt="" width="128"> 
+  <!-- <b> <img src="catface.png" alt="" width="128">  -->
 </h1>
 
 <h3 align="center"><b> I enjoy writing code :D <br/> (most of the time) </h3>

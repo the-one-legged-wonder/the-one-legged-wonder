@@ -2,6 +2,7 @@
 
 <h1 align="center">
   <b> <img src="xytyylbi1li21.jpg" alt="" width="128"> 
+  <b> <img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fpublic.notion-static.com%2Fad2d4a13-76bd-402b-8916-f8efcafdb8b1%2Fcatface.png?table=space&id=6c1087ff-96dc-4ceb-aa9c-dcd6bb584c62&spaceId=6c1087ff-96dc-4ceb-aa9c-dcd6bb584c62&width=60&userId=18a36e2e-3674-4cd0-b78f-2a7d407cf6f6&cache=v2" alt="" width="128"> 
 </h1>
 
 <h3 align="center"><b> I enjoy writing code :D <br/> (most of the time) </h3>

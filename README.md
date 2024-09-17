@@ -8,7 +8,7 @@
 <h3 align="center"><b> I enjoy writing code :D <br/> (most of the time) </h3>
 <br/>
 
-- **I have experience with:** Python (4 Years) and C, moderate experience with Git and GitHub
+- *I have experience with:* Python (4 Years) and C, moderate experience with Git and GitHub
 - **I’m currently working on:** a few GUI tools for my own personal use (in Python)
 - **I'm currently employed at:** TranslatorHQ - eCommerce Integration
 - **I'm currently studying:** Curtin Uni BSc Majoring in Multidisciplinary Science
